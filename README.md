@@ -2,7 +2,7 @@
 
 A quick-start project that helps you create a Blazor TextBox of Syncfusion in a Blazor WebAssembly application. In this example, you can learn how to add prominent features like placeholder value, two-way data binding, validation, custom styles, float labels, multiline, read only, and disable a TextBox.
 
-Watch the video now:<coming soon>
+Watch the video now: https://www.syncfusion.com/tutorial-videos/blazor/textbox?title=create-a-textbox-component-in-a-blazor-webassembly-app
 
 Documentation: https://blazor.syncfusion.com/documentation/textbox/getting-started
 
