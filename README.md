@@ -49,7 +49,7 @@ The TextBox component works seamlessly with Angular template-driven forms, react
 
 [Community Forums](https://www.syncfusion.com/forums/angular-ui-components?utm_source=github&utm_medium=listing&utm_campaign=angular-textbox-github-samples)
 
-[Suggest a feature or report a bug](https://www.syncfusion.com/feedback/angular?utm_source=github&utm_medium=listing&utm_campaign=angular-accordion-github-samples)
+[Suggest a feature or report a bug](https://www.syncfusion.com/feedback/angular?utm_source=github&utm_medium=listing&utm_campaign=angular-textbox-github-samples)
 
 [Knowledge base](https://www.syncfusion.com/kb/angular-ui-components?utm_source=github&utm_medium=listing&utm_campaign=angular-textbox-github-samples)
 
