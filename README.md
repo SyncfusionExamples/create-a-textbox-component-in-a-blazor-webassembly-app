@@ -1,5 +1,6 @@
 # Create a TextBox Component in a Blazor WebAssembly App
-The [Angular Textbox](https://www.syncfusion.com/angular-ui-components/angular-textbox?utm_source=github&utm_medium=listing&utm_campaign=angular-textbox-github-samples)The Angular TextBox (text field) is a component for editing, displaying, or entering plain text on forms to capture user names, phone numbers, email, and more. A quick-start project that helps you create a Blazor TextBox of Syncfusion in a Blazor WebAssembly application. In this example, you can learn how to add prominent features like placeholder value, two-way data binding, validation, custom styles, float labels, multiline, read only, and disable a TextBox.
+
+The [Angular Textbox](https://www.syncfusion.com/angular-ui-components/angular-textbox?utm_source=github&utm_medium=listing&utm_campaign=angular-textbox-github-samples). The Angular TextBox (text field) is a component for editing, displaying, or entering plain text on forms to capture user names, phone numbers, email, and more. A quick-start project that helps you create a Blazor TextBox of Syncfusion in a Blazor WebAssembly application. In this example, you can learn how to add prominent features like placeholder value, two-way data binding, validation, custom styles, float labels, multiline, read only, and disable a TextBox.
 
 ## Project prerequisites
 Make sure you have the compatible version of .NET Core on your machine before starting to work on this project. You also need the following:
