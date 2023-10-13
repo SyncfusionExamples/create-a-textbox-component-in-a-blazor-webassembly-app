@@ -1,0 +1,29 @@
+﻿@page "/"
+@using Syncfusion.Blazor.Inputs
+@using System.ComponentModel.DataAnnotations
+
+<EditForm Model="@User">
+    <DataAnnotationsValidator />
+    <div class="form-group">
+        <SfTextBox Placeholder="Enter Value" @bind-Value="@User.ID" Multiline="true"></SfTextBox>
+        <ValidationMessage For="@(() => User.ID)" />
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</EditForm>
+
+@code {
+
+    public Customer User = new Customer();
+
+    public class Customer
+    {
+        [Required(ErrorMessage = "Value is required")]
+        public string ID { get; set; }
+    }
+}
+
+<style>
+    .form-group {
+        width: 160px;
+    }
+</style>
